@@ -29,3 +29,8 @@ Mise en situation, gestion de projet, gérer le developpement et la production d
 7. PAQ : Fait : fichier : [Paq-T-CEN-500.pdf](Paq-T-CEN-500.pdf)
 8. Communication : Fait : fichier : [Com-interne-T-CEN-500.pdf](Com-interne-T-CEN-500.pdf) & [Com-externe-T-CEN-500.pdf](Com-externe-T-CEN-500.pdf)
 9. Présentation investisseur : Fait : fichier : [Prez-T-CEN-500.pdf](Prez-T-CEN-500.pdf)
+
+## Note obtenue : 100/100  
+![c1](note/c1.png)
+![c1](note/c2.png)
+![c1](note/c3.png)
