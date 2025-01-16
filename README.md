@@ -20,11 +20,11 @@ Gaspard, Ryan, Gino.
 Mise en situation, gestion de projet, gérer le developpement et la production d'un aspirateur robot.  
   
 ## Étapes à faire  
-1. Gantt : Fait : fichier : [Gantt-T-CEN-500](Gantt-T-CEN-500.xlsx)
-2. Compétences : Fait : fichier : [Compétences-T-CEN-500.pdf](Compétences-T-CEN-500.pdf)
-3. Profils : Fait : fichier : [Gantt-T-CEN-500](Gantt-T-CEN-500.xlsx)
-4. Matériaux : Fait : fichier : [Gantt-T-CEN-500](Gantt-T-CEN-500.xlsx)
-5. Risques : Fait : fichier : [Risques-T-CEN-500](Risques-T-CEN-500.pdf)
-6. Budget : Fait : fichier : [Budget-T-CEN-500](Budget-T-CEN-500.xlsx)
-7. PAQ : Fait : fichier : [Paq-T-CEN-500](Paq-T-CEN-500.pdf)
-8. Communication : Fait : fichier : [Com-interne-T-CEN-500](Com-interne-T-CEN-500.pdf) & [Com-externe-T-CEN-500](Com-externe-T-CEN-500.pdf)
+1. Gantt : Fait : fichier : [Gantt-T-CEN-500.xlsx](Gantt-T-CEN-500.xlsx)
+2. Compétences : Fait : fichier : [Compétences-T-CEN-500.pdf](Compétences-T-CEN-500.pdf)
+3. Profils : Fait : fichier : [Gantt-T-CEN-500.xlsx](Gantt-T-CEN-500.xlsx)
+4. Matériaux : Fait : fichier : [Gantt-T-CEN-500.xlsx](Gantt-T-CEN-500.xlsx)
+5. Risques : Fait : fichier : [Risques-T-CEN-500.pdf](Risques-T-CEN-500.pdf)
+6. Budget : Fait : fichier : [Budget-T-CEN-500.xlsx](Budget-T-CEN-500.xlsx)
+7. PAQ : Fait : fichier : [Paq-T-CEN-500.pdf](Paq-T-CEN-500.pdf)
+8. Communication : Fait : fichier : [Com-interne-T-CEN-500.pdf](Com-interne-T-CEN-500.pdf) & [Com-externe-T-CEN-500.pdf](Com-externe-T-CEN-500.pdf)
